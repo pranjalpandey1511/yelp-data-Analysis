@@ -1,2 +1,2 @@
 # yelp-data-analysis
- Various analysis on yelp dataset
+ Various analysis on yelp data-set
